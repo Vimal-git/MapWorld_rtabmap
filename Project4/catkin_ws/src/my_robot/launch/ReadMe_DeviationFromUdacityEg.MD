@@ -1,0 +1,2 @@
+in mapping.launch and localization.launch files, for param name="frame_id" value has been change to value="robot_footprint" instead of "base_footprint" at all the two locations in each file.
+line <param name="queue_size" type="string" value="20"/> was added
